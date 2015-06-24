@@ -3,7 +3,7 @@
  
 ## List of Solutions
 
-- #159 [Hard] [Rock Paper Scissors Lizard Spock](/159)
+- #159 [Hard] [Rock Paper Scissors Lizard Spock](/159_Hard)
 
 ## License
 
