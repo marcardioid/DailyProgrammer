@@ -28,7 +28,9 @@ $(document).ready(function() {
     var ctx = document.getElementById("chart-area").getContext("2d");
     myPie = new Chart(ctx).Pie(pieData, {responsive: true, animationSteps: 20, animationEasing: "linear"});
 
-    $('#player-buttons button').click(function() {
+    $('#player-buttons button').on("click touchstart", function(e) {
+        e.stopPropagation();
+        e.preventDefault();
         var playerMove = this.id;
         var aiMove = ai.move();
         var result = g.fight(playerMove, aiMove);

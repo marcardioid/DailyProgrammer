@@ -12,5 +12,8 @@
     visibility: hidden;
 }
 #canvas-holder {
-    margin-top: -28px;
+    margin-top: -30px;
+}
+button {
+    cursor: pointer;
 }
