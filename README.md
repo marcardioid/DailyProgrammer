@@ -3,6 +3,7 @@
  
 ## List of Solutions
 
+- #220 [Easy] [Mangling sentences](/220_Easy)
 - #159 [Hard] [Rock Paper Scissors Lizard Spock](/159_Hard)
 
 ## License
