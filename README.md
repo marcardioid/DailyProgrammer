@@ -3,6 +3,7 @@
  
 ## List of Solutions
 
+- #221 [Intermediate] [Unravelling a Word Snake](/221_Intermediate)
 - #221 [Easy] [Word Snake](/221_Easy)
 - #220 [Easy] [Mangling sentences](/220_Easy)
 - #219 [Hard] [The Cave of Prosperity](/219_Hard)
