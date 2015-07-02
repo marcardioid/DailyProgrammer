@@ -17,7 +17,7 @@ def decode(filename):
         planet = planets[translations.index(translation)]
         output.append(planet + " | " + translation)
 
-    return ' '.join(output)
+    return '\n'.join(output)
 
 if __name__ == "__main__":
-    print(decode("input.txt"))
+    print(decode("input2.txt"))
