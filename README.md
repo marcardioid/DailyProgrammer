@@ -3,6 +3,7 @@
  
 ## List of Solutions
 
+- #222 [Intermediate] [Simple Stream Cipher](/222_Intermediate)
 - #222 [Easy] [Balancing Words](/222_Easy)
 - #221 [Hard] [Poetry in a haystack](/221_Hard)
 - #221 [Intermediate] [Unravelling a Word Snake](/221_Intermediate)
