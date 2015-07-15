@@ -3,6 +3,7 @@
  
 ## List of Solutions
 
+- #223 [Intermediate] [Eel of Fortune](/223_Intermediate)
 - #223 [Easy] [Garland Words](/223_Easy)
 - #222 [Intermediate] [Simple Stream Cipher](/222_Intermediate)
 - #222 [Easy] [Balancing Words](/222_Easy)
