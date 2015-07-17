@@ -14,6 +14,7 @@
 - #219 [Hard] [The Cave of Prosperity](/219_Hard)
 - #217 [Intermediate] [Space Code Breaking](/217_Intermediate)
 - #212 [Easy] [Rövarspråket](/212_Easy)
+- #210 [Easy] [intHarmony.com](/210_Easy)
 - #159 [Hard] [Rock Paper Scissors Lizard Spock](/159_Hard)
 
 ## License
