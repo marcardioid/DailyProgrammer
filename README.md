@@ -3,6 +3,7 @@
  
 ## List of Solutions
 
+- #225 [Intermediate] [De-columnizing](/225_Intermediate)
 - #224 [Intermediate] [Detecting Four Sided Figures](/224_Intermediate)
 - #224 [Easy] [Shuffling a List](/224_Easy)
 - #223 [Intermediate] [Eel of Fortune](/223_Intermediate)
