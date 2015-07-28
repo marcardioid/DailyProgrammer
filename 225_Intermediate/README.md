@@ -1,0 +1,2 @@
+#Challenge #225 [Intermediate] De-columnizing
+My solution to /r/DailyProgrammer [#225 [Intermediate] De-columnizing](http://www.reddit.com/r/dailyprogrammer/comments/3esrkm/20150727_challenge_225_easyintermediate/).
