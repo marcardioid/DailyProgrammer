@@ -3,6 +3,7 @@
  
 ## List of Solutions
 
+- #226 [Easy] [Adding fractions](/226_Easy)
 - #225 [Intermediate] [De-columnizing](/225_Intermediate)
 - #224 [Intermediate] [Detecting Four Sided Figures](/224_Intermediate)
 - #224 [Easy] [Shuffling a List](/224_Easy)
