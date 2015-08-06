@@ -19,6 +19,7 @@ My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_
 - #217 [Intermediate] [Space Code Breaking](/217_Intermediate)
 - #212 [Easy] [Rövarspråket](/212_Easy)
 - #210 [Easy] [intHarmony.com](/210_Easy)
+- #202 [Easy] [I AM BENDER. PLEASE INSERT GIRDER.](/202_Easy)
 - #159 [Hard] [Rock Paper Scissors Lizard Spock](/159_Hard)
 
 ## License
