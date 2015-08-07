@@ -16,6 +16,7 @@ My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_
 - #221 [Easy] [Word Snake](/221_Easy)
 - #220 [Easy] [Mangling sentences](/220_Easy)
 - #219 [Hard] [The Cave of Prosperity](/219_Hard)
+- #218 [Easy] [to-do list](/218_Easy)
 - #217 [Intermediate] [Space Code Breaking](/217_Intermediate)
 - #212 [Easy] [Rövarspråket](/212_Easy)
 - #210 [Easy] [intHarmony.com](/210_Easy)
