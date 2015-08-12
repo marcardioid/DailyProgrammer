@@ -3,7 +3,7 @@ My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_
  
 ## List of Solutions
 
-- #227 [Intermediate] [Contiguous Chains](/227_Intermediate)
+- #227 [Intermediate] [Contiguous chains](/227_Intermediate)
 - #226 [Easy] [Adding fractions](/226_Easy)
 - #225 [Intermediate] [De-columnizing](/225_Intermediate)
 - #224 [Intermediate] [Detecting Four Sided Figures](/224_Intermediate)
