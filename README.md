@@ -3,6 +3,7 @@ My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_
  
 ## List of Solutions
 
+- #228 [Easy] [Letters in Alphabetical Order](/228_Easy)
 - #227 [Hard] [Adjacency Matrix Generator](/227_Hard)
 - #227 [Intermediate] [Contiguous Chains](/227_Intermediate)
 - #226 [Easy] [Adding fractions](/226_Easy)
