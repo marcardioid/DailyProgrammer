@@ -3,6 +3,7 @@ My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_
  
 ## List of Solutions
 
+- #230 [Hard] [Logo De-compactification](/230_Hard)
 - #230 [Easy] [JSON Treasure Hunt](/230_Easy)
 - #229 [Easy] [The Dottie Number](/229_Easy)
 - #228 [Hard] [Golomb Rulers](/228_Hard)
