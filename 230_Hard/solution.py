@@ -5,7 +5,7 @@ with open("dictionary.txt", "r") as file:
 
 def match(word):
     if len(word) < 2:
-        return False
+        return ''
     elif word.lower() in dictionary:
         return word
     elif word.lower()[::-1] in dictionary:
