@@ -1,0 +1,9 @@
+8
+ROAD    
+  N B   
+  I R   
+NASTILY 
+  E T O 
+  E I K 
+  DISHES
+    H   
