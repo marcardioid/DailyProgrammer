@@ -1,2 +1,2 @@
-#Challenge #230 [Easy] JSON Treasure Hunt
-My solution to /r/DailyProgrammer [#230 [Easy] JSON Treasure Hunt](https://www.reddit.com/r/dailyprogrammer/comments/3j3pvm/20150831_challenge_230_easy_json_treasure_hunt/).
+#Challenge #230 [Hard] Logo De-compactification
+My solution to /r/DailyProgrammer [#230 [Hard] Logo De-compactification](https://www.reddit.com/r/dailyprogrammer/comments/3jn6te/20150903_challenge_230_hard_logo/).
