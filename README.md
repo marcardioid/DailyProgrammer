@@ -3,6 +3,7 @@ My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_
  
 ## List of Solutions
 
+- #231 [Hard] [Eight Husbands for Eight Sisters](/231_Hard)
 - #232 [Easy] [Palindromes](/232_Easy)
 - #231 [Intermediate] [Set Game Solver](/231_Intermediate)
 - #231 [Easy] [Cellular Automata: Rule 90](/231_Easy)
