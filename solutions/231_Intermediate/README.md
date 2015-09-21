@@ -1,0 +1,2 @@
+#Challenge #231 [Intermediate] Set Game Solver
+My solution to /r/DailyProgrammer [#231 [Intermediate] Set Game Solver](https://www.reddit.com/r/dailyprogrammer/comments/3ke4l6/20150909_challenge_231_intermediate_set_game/).

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Rock Paper Scissors Lizard Spock</title>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-3.3.5.min.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+	<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="js/chart.js"></script>
+    <script type="text/javascript" src="js/gamelogic.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</head>
+<body>
+	<a href="https://github.com/marcardioid/DailyProgrammer/tree/master/159_Hard" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
+	<div class="container">
+		<div class="page-header">
+            <h2><a href="http://www.reddit.com/r/dailyprogrammer/comments/23yinj/4252014_challenge_159_hard_rock_paper_scissors/" target="_blank">Challenge #159 [Hard] Rock Paper Scissors Lizard Spock</a></h2>
+		</div>
+		
+        <div class="row">
+			<div class="col-md-10">
+				<h4>Let's play Rock, Paper, Scissors, Lizard, Spock! The rules are easy: </h4>
+                <h5>Scissors cuts Paper, Paper Covers Rock, Rock crushes Lizard, Lizard poisons Spock, Spock smashes Scissors, Scissors decapitates Lizard, Lizard eats Paper, Paper disproves Spock, Spock vaporizes Rock and - as it always has - Rock crushes Scissors. Check out this really cool flowchart:</h5>
+            </div>
+            <div class="col-md-2">
+                <a href="img/rules.png" target="_blank"><img id="img-rules" src="img/rules.png"></a>
+            </div>
+        </div>
+        
+        <hr>
+        
+		<div class="row">
+			<div class="col-md-8">
+				<h4>You <small>Choose your next move.</small></h4>
+				<div id="player-buttons">
+					<button id="rock" class="btn btn-primary">Rock</button>
+					<button id="paper" class="btn btn-primary">Paper</button>
+					<button id="scissors" class="btn btn-primary">Scissors</button>
+					<button id="lizard" class="btn btn-primary">Lizard</button>
+					<button id="spock" class="btn btn-primary">Spock</button>
+                    <button id="random" class="btn btn-primary">Random</button>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<h4>AI <small>Changing the difficulty will reset your stats.</small></h4>
+				<select id="ai-difficulty" class="form-control" default=2>
+					<option value="easy">Easy (random pick)</option>
+					<option value="intermediate" selected>Intermediate (top pick)</option>
+                    <option value="hard">Hard (unfair pick)</option>
+				</select>
+			</div>
+		</div>
+        
+		<br>
+        
+		<div class="row">
+			<div class="col-sm-8 col-md-8">
+				<table id="results" class="table">
+                    <th class="col-md-6">You</th>
+                    <th class="col-md-6" id="results-ai">AI (intermediate)</th>
+				</table>
+			</div>
+			<div class="col-sm-4 col-md-4">
+				<div class="panel panel-default" id="stats">
+					<div class="panel-body">
+						<p>Games: <span id="games">0</span></p>
+						<p>Player wins: <span id="player-wins">0</span></p>
+						<p>AI wins: <span id="ai-wins">0</span></p>
+						<p>Ties: <span id="ties">0</span></p>
+                        <hr>
+					</div>
+                    <div id="canvas-holder">
+			             <canvas id="chart-area" width="300" height="300"/>
+                    </div>
+				</div>
+			</div>
+		</div>
+		<hr>
+	</div>
+</body>
+</html>

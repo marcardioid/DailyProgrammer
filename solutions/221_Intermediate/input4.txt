@@ -1,0 +1,11 @@
+10
+R       TIGER
+E       O   E
+S       H   T  SO
+I  GRAPES   U  N
+G  A        R  R
+NULL  GNIHTON  E
+      R        T
+      A        N
+      N        A
+      DELIGHTFUL

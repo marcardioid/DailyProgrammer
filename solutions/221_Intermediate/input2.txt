@@ -1,0 +1,9 @@
+8
+W    DINOSAUR
+I    E      E
+Z  CAR  Y   A
+A  I    L   C
+R  D    T  OT
+D  R    B  V
+R  O    U  A
+YAWN    SGEL

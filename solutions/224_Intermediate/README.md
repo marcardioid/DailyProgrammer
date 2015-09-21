@@ -1,0 +1,2 @@
+#Challenge #224 [Intermediate] Detecting Four Sided Figures
+My solution to /r/DailyProgrammer [#224 [Intermediate] Detecting Four Sided Figures](http://www.reddit.com/r/dailyprogrammer/comments/3e5b0o/20150722_challenge_224_intermediate_detecting/).
