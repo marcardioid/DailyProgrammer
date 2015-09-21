@@ -1,2 +1,0 @@
-#Challenge #223 [Intermediate] Eel of Fortune
-My solution to /r/DailyProgrammer [#223 [Intermediate] Eel of Fortune](http://www.reddit.com/r/dailyprogrammer/comments/3ddpms/20150715_challenge_223_intermediate_eel_of_fortune/).

@@ -1,7 +1,0 @@
-6
-SNAKE
-    A   DUSTY
-    T   N   U
-    SALSA   M
-            M
-            YACHTS

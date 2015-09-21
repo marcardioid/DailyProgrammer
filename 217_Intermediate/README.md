@@ -1,2 +1,0 @@
-#Challenge #217 [Intermediate] Space Code Breaking
-My solution to /r/DailyProgrammer [#217 [Intermediate] Space Code Breaking](http://www.reddit.com/r/dailyprogrammer/comments/38fjll/20150603_challenge_217_intermediate_space_code/).

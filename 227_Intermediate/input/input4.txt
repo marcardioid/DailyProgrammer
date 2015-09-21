@@ -1,9 +1,0 @@
-8 11
-xx x xx x
-x  x xx x
-xx   xx  x
-xxxxxxxxx x
-         xx
-xxxxxxxxxxx
- x x x x x
-  x x x x

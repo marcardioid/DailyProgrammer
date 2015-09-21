@@ -1,2 +1,0 @@
-#Challenge #228 [Intermediate] Using a Web Service to find Bitcoin prices 
-My solution to /r/DailyProgrammer [#228 [Intermediate] Using a Web Service to find Bitcoin prices](https://www.reddit.com/r/dailyprogrammer/comments/3hj4o2/20150819_challenge_228_intermediate_use_a_web/).

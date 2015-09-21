@@ -1,2 +1,0 @@
-#Challenge #226 [Easy] Adding fractions
-My solution to /r/DailyProgrammer [#226 [Easy] Adding fractions](http://www.reddit.com/r/dailyprogrammer/comments/3fmke1/20150803_challenge_226_easy_adding_fractions/).
