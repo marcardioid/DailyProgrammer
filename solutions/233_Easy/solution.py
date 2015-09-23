@@ -48,6 +48,6 @@ def print_house(blueprint):
         print(''.join([house.get((x, y), ' ') for x in range(xmin, xmax + 1)]))
 
 if __name__ == "__main__":
-    with open("input/input1.txt", "r") as file:
+    with open("input/input4.txt", "r") as file:
         num, *blueprint = file.read().splitlines()
     print_house(blueprint)
