@@ -1,0 +1,2 @@
+#Challenge #234 [Easy] Vampire Numbers
+My solution to /r/DailyProgrammer [#234 [Easy] Vampire Numbers](https://www.reddit.com/r/dailyprogrammer/comments/3moxid/20150928_challenge_234_easy_vampire_numbers/).
