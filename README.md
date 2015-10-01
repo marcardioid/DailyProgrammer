@@ -3,6 +3,7 @@ My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_
  
 ## List of Solutions
 
+- #234 [Easy] [Vampire Numbers](/solutions/234_Easy)
 - #233 [Intermediate] [Game of Text Life](/solutions/233_Intermediate)
 - #233 [Easy] [The house that ASCII built](/solutions/233_Easy)
 - #232 [Intermediate] [Where Should Grandma's House Go?](/solutions/232_Intermediate)
