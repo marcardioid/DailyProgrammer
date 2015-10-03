@@ -4,7 +4,7 @@ with open("enable1.txt") as file:
 def spellcheck(word):
     fault = None
     for n in range(len(word) + 1):
-        if not any([x.startswith(word[:n]) for x in dictionary]):
+        if not any(x.startswith(word[:n]) for x in dictionary):
             fault = "{}<{}".format(word[:n], word[n:])
             break
     return fault if fault else "CORRECT"
