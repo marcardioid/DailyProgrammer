@@ -3,6 +3,7 @@ My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_
  
 ## List of Solutions
 
+- #235 [Easy] [Ruth-Aaron Pairs](/solutions/235_Easy)
 - #234 [Intermediate] [Red Squiggles](/solutions/234_Intermediate)
 - #234 [Easy] [Vampire Numbers](/solutions/234_Easy)
 - #233 [Intermediate] [Game of Text Life](/solutions/233_Intermediate)
