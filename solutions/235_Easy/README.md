@@ -1,0 +1,2 @@
+#Challenge #235 [Easy] Ruth-Aaron Pairs
+My solution to /r/DailyProgrammer [#235 [Easy] Ruth-Aaron Pairs](https://www.reddit.com/r/dailyprogrammer/comments/3nkanm/20151005_challenge_235_easy_ruthaaron_pairs/).
