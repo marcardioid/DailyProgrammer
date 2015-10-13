@@ -1,0 +1,2 @@
+#Challenge #236 [Easy] Random Bag System
+My solution to /r/DailyProgrammer [#236 [Easy] Random Bag System](https://www.reddit.com/r/dailyprogrammer/comments/3ofsyb/20151012_challenge_236_easy_random_bag_system/).
