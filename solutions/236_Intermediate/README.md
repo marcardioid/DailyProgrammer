@@ -1,0 +1,2 @@
+#Challenge #236 [Intermediate] Fibonacci-ish Sequence
+My solution to /r/DailyProgrammer [#236 [Intermediate] Fibonacci-ish Sequence](https://www.reddit.com/r/dailyprogrammer/comments/3opin7/20151014_challenge_236_intermediate_fibonacciish/).
