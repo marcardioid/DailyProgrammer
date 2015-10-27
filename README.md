@@ -2,7 +2,6 @@
 My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_blank">/r/DailyProgrammer</a> challenges.
  
 ## List of Solutions
-
 - #237 [Easy] [Broken Keyboard](/solutions/237_Easy)
 - #236 [Intermediate] [Fibonacci-ish Sequence](/solutions/236_Intermediate)
 - #236 [Easy] [Random Bag System](/solutions/236_Easy)
