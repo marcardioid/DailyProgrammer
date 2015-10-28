@@ -3,6 +3,7 @@ My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_
  
 ## List of Solutions
 - #238 [Easy] [Consonants and Vowels](/solutions/238_Easy)
+- #237 [Intermediate] [Heightmap of Boxes](/solutions/237_Intermediate)
 - #237 [Easy] [Broken Keyboard](/solutions/237_Easy)
 - #236 [Intermediate] [Fibonacci-ish Sequence](/solutions/236_Intermediate)
 - #236 [Easy] [Random Bag System](/solutions/236_Easy)
