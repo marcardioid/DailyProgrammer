@@ -1,0 +1,2 @@
+#Challenge #237 [Intermediate] Heightmap of Boxes
+My solution to /r/DailyProgrammer [#237 [Intermediate] Heightmap of Boxes](https://www.reddit.com/r/dailyprogrammer/comments/3pnd3t/20151021_challenge_237_intermediate_heighmap_of/).
