@@ -2,6 +2,7 @@
 My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_blank">/r/DailyProgrammer</a> challenges.
  
 ## List of Solutions
+- #238 [Intermediate] [Fallout Hacking Game](/solutions/238_Intermediate)
 - #238 [Easy] [Consonants and Vowels](/solutions/238_Easy)
 - #237 [Intermediate] [Heightmap of Boxes](/solutions/237_Intermediate)
 - #237 [Easy] [Broken Keyboard](/solutions/237_Easy)
