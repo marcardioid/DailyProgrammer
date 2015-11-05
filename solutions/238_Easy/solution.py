@@ -10,5 +10,5 @@ def generate_word(pattern):
 
 if __name__ == "__main__":
     inputs = ["cvcvcc", "CcvV", "cvcvcvcvcvcvcvcvcvcv"]
-    for input in inputs:
-        print(generate_word(input))
+    for i in inputs:
+        print(generate_word(i))
