@@ -10,9 +10,9 @@ def program(fav, timetable):
         if len(schedule) > total and fav in [show[2] for show in schedule]:
             total = len(schedule)
             shows = [show[2] for show in schedule]
-    return('\n'.join(shows))
+    return(shows)
 
 if __name__ == "__main__":
     with open("input/input1.txt", "r") as file:
         fav, *timetable = file.read().splitlines()
-    print(program(fav, timetable))
+    print('\n'.join(program(fav, timetable)))
