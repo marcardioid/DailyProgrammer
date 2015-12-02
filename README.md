@@ -2,6 +2,7 @@
 My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_blank">/r/DailyProgrammer</a> challenges.
  
 ## List of Solutions
+- #242 [Intermediate] [VHS recording problem](/solutions/242_Intermediate)
 - #242 [Easy] [Funny Plant](/solutions/242_Easy)
 - #240 [Easy] [Typoglycemia](/solutions/240_Easy)
 - #239 [Easy] [A Game of Threes](/solutions/239_Easy)
