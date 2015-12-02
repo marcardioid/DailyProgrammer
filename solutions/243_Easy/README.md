@@ -1,0 +1,2 @@
+#Challenge #243 [Easy] Abundant and Deficient Numbers
+My solution to /r/DailyProgrammer [#243 [Easy] Abundant and Deficient Numbers](https://www.reddit.com/r/dailyprogrammer/comments/3uuhdk/20151130_challenge_243_easy_abundant_and/).
