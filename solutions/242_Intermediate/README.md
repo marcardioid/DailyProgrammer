@@ -1,0 +1,2 @@
+#Challenge #242 [Intermediate] VHS recording problem
+My solution to /r/DailyProgrammer [#242 [Intermediate] VHS recording problem](https://www.reddit.com/r/dailyprogrammer/comments/3u6o56/20151118_challenge_242_intermediate_vhs_recording/).
