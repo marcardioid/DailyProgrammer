@@ -1,0 +1,2 @@
+#Challenge #245 [Intermediate] Ggggggg gggg Ggggg-ggggg!
+My solution to /r/DailyProgrammer [#245 [Intermediate] Ggggggg gggg Ggggg-ggggg!](https://www.reddit.com/r/dailyprogrammer/comments/3x3hqa/20151216_challenge_245_intermediate_ggggggg_gggg/).
