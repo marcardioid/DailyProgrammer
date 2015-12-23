@@ -2,6 +2,7 @@
 My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_blank">/r/DailyProgrammer</a> challenges.
  
 ## List of Solutions
+- #246 [Easy] [X-mass lights](/solutions/246_Easy)
 - #245 [Intermediate] [Ggggggg gggg Ggggg-ggggg!](/solutions/245_Intermediate)
 - #245 [Easy] [Date Dilemma](/solutions/245_Easy)
 - #243 [Intermediate] [Jenny's Fruit Basket](/solutions/243_Intermediate)
