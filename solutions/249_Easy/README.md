@@ -1,0 +1,2 @@
+#Challenge #249 [Easy] Playing the Stock Market
+My solution to /r/DailyProgrammer [#249 [Easy] Playing the Stock Market](https://www.reddit.com/r/dailyprogrammer/comments/40h9pd/20160111_challenge_249_easy_playing_the_stock/).
