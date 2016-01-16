@@ -2,7 +2,7 @@
 My solutions to selected <a href="http://reddit.com/r/DailyProgrammer" target="_blank">/r/DailyProgrammer</a> challenges.
  
 ## List of Solutions
-- #249 [Easy] Playing the Stock Market(/solutions/249_Easy)
+- #249 [Easy] [Playing the Stock Market](/solutions/249_Easy)
 - #246 [Easy] [X-mass lights](/solutions/246_Easy)
 - #245 [Intermediate] [Ggggggg gggg Ggggg-ggggg!](/solutions/245_Intermediate)
 - #245 [Easy] [Date Dilemma](/solutions/245_Easy)
