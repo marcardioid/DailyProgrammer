@@ -7,6 +7,6 @@ Check it out <a href="http://marcsleegers.com/rpsls" target="_blank">on my websi
 ## Rules
 Check out this amazing flowchart:
 <br>
-![alt text](/159_Hard/img/rules.png "Logo Title Text 1")
+![alt text](/solutions/159_Hard/img/rules.png "Logo Title Text 1")
 
 Or, check out the <a href="http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock" target="_blank">Wikipedia rules for Rock Paper Scissors Lizard Spock</a>.
